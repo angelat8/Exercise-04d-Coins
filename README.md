@@ -1,6 +1,7 @@
 # Exercise-04c-Enemies
 
 ## Implementation
+Added coins.
 
 ## References
 
@@ -14,4 +15,5 @@ https://kenney.nl/assets/pixel-platformer
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Angela Tan
+angelat8
